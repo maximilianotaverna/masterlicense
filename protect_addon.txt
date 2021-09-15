@@ -1,5 +1,3 @@
-# test line
-
 # pi
 dc:a6:32:92:ac:37
 dc:a6:32:92:ac:38
