@@ -1,5 +1,9 @@
-# pi
+# pi4
 dc:a6:32:92:ac:37
 dc:a6:32:92:ac:38
 # nec
 e4:5f:01:26:44:91
+# max_pi3B
+b8:27:eb:57:c5:06
+# aaron_pi3
+B8:27:eb:2c:52:0a
