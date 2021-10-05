@@ -2,7 +2,7 @@
 b8:27:eb:57:c5:06
 # aaron_pi3
 b8:27:eb:2c:52:0a
-# pi4
+# max_pi4
 dc:a6:32:92:ac:37
 dc:a6:32:92:ac:38
 # nec
