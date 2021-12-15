@@ -7,6 +7,6 @@ dc:a6:32:92:ac:37
 dc:a6:32:92:ac:38
 # max_nec
 e4:5f:01:26:44:91
-# nec_aleksandar
+# nec_aleks
 e4:5f:01:24:9b:f4
 d4:92:34:41:63:30
