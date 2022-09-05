@@ -5,6 +5,8 @@ b8:27:eb:57:c5:06
 # max_pi4
 dc:a6:32:92:ac:37
 dc:a6:32:92:ac:38
+# max_400
+e4:5f:01:9d:83:6e
 # max_nec
 e4:5f:01:26:44:91
 # nec_aleks
