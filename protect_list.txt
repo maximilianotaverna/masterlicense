@@ -1,3 +1,4 @@
+# This file will be DELETED and replaced with Gist in iamdigital support account - which current image is using
 # aaron_pi3
 b8:27:eb:2c:52:0a
 # max_pi3
