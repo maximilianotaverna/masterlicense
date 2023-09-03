@@ -10,14 +10,3 @@ dc:a6:32:92:ac:38
 e4:5f:01:9d:83:6e
 # max_nec
 e4:5f:01:26:44:91
-# nec_aleks
-e4:5f:01:24:9b:f4
-d4:92:34:41:63:30
-# nec_pwc_right
-e4:5f:01:24:a0:22
-# nec_pwc_left
-e4:5f:01:26:30:99
-# nec_pwc_replaced65
-e4:5f:01:26:39:e4
-# nec_pwc_portrait55
-e4:5f:01:26:3b:0f
